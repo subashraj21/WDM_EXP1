@@ -53,6 +53,9 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+![WhatsApp Image 2024-02-24 at 09 19 38_234039f3](https://github.com/subashraj21/WDM_EXP1/assets/143729815/7dd52777-a271-45da-a270-994ef882fcbc)
+
+
 
 
 
@@ -75,6 +78,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![WhatsApp Image 2024-02-24 at 09 19 39_f2c2a9df](https://github.com/subashraj21/WDM_EXP1/assets/143729815/296963b9-89eb-4d9c-a51b-c03c3f83881e)
+
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -90,7 +96,13 @@ rainy,75.0,80.0,false,yes
 10) Click Remove button and then Save.
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
-### OUTPUT:
+### OUTPUT
+![WhatsApp Image 2024-02-24 at 09 19 40_8ab511c3](https://github.com/subashraj21/WDM_EXP1/assets/143729815/86622311-ff14-46e2-bd76-c0805d98efcc)
+![WhatsApp Image 2024-02-24 at 09 19 40_b0a37d4a](https://github.com/subashraj21/WDM_EXP1/assets/143729815/0509efd7-11fb-47c7-b5f4-89259f774cb2)
+![WhatsApp Image 2024-02-24 at 09 19 41_f340f464](https://github.com/subashraj21/WDM_EXP1/assets/143729815/1867d1e0-dc8d-450d-a734-02ce4ca48317)
+![WhatsApp Image 2024-02-24 at 09 19 41_2a35a738](https://github.com/subashraj21/WDM_EXP1/assets/143729815/20ca204c-05ee-4ede-8c41-a8c40f49d988)
+
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +119,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+![WhatsApp Image 2024-02-24 at 09 19 42_1ee3efc9](https://github.com/subashraj21/WDM_EXP1/assets/143729815/d01469b9-e755-41f6-b4ed-f9706e4e096a)
+![WhatsApp Image 2024-02-24 at 09 19 43_6921311a](https://github.com/subashraj21/WDM_EXP1/assets/143729815/f99a61d4-2612-4f29-857d-03080d753fa9)
+![WhatsApp Image 2024-02-24 at 09 19 43_898a9176](https://github.com/subashraj21/WDM_EXP1/assets/143729815/45ed2c3b-6586-4d73-9948-c911b5b0f310)
+![WhatsApp Image 2024-02-24 at 09 19 43_06442b6d](https://github.com/subashraj21/WDM_EXP1/assets/143729815/614acabf-d884-4bf6-8ff6-d3b7c303cded)
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
